@@ -10,56 +10,32 @@ Basic
 
 [**Head First Go**](https://www.amazon.com/Head-First-Go-Jay-McGavren/dp/1491969555/) &mdash; A simple introduction with many illustrations.
 
-[**Go by Example**](https://gobyexample.com)
-
-A hands-on introduction to Go.
+[**Go by Example**](https://gobyexample.com) &mdash; A hands-on introduction to Go.
 
 Intermediate
 ------------
 
-[**Let's Go!**](https://lets-go.alexedwards.net/)
+[**Let's Go!**](https://lets-go.alexedwards.net/) &mdash; Learn hot to build web applications with Go.
 
-Learn hot to build web applications with Go.
+[**Context Package Semantics In Go**](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html) &mdash; An article about working with *context* objects.
 
-[**Context Package Semantics In Go**](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
+[**Go Concurrency Patterns: Context**](https://blog.golang.org/context) &mdash; Another article on the *context* objects.
 
-An article about working with *context* objects.
+[**Server-Side Web Development**](https://drstearns.github.io/tutorials/) &mdash; A set of articles about Go web development.
 
-[**Go Concurrency Patterns: Context**](https://blog.golang.org/context)
-
-Another article on the *context* objects.
-
-[**Server-Side Web Development**](https://drstearns.github.io/tutorials/)
-
-A set of articles about Go web development.
-
-[**The pgx Files**](https://www.manniwood.com/topics/the_pgx_files.html)
-
-Learn how to work with pgx effectively.
+[**The pgx Files**](https://www.manniwood.com/topics/the_pgx_files.html) &mdash; Learn how to work with pgx effectively.
 
 Advanced
 --------
 
-**Go Programming Language**
+[**Go Programming Language**](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/) &mdash; The "official" Go book.
 
-The "official" book.
+[**Concurrency in Go: Tools and Techniques for Developers**](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) &mdash; Learn how to handle concurrency.
 
-**Concurrency in Go: Tools and Techniques for Developers**
+[**Building Microservices with Go**](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) &mdash; This YouTube course will teach you how to build a multi-tier microservice system.
 
-Learn how to handle concurrency.
+[**The Go Blog**](https://blog.golang.org/) &mdash; Lots of useful articles.
 
-[**Building Microservices with Go**](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
+[**Alex Edwards Blog**](https://www.alexedwards.net/blog/) &mdash; The author of "Let's Go!" book's blog.
 
-This YouTube course will teach you how to build a multi-tier microservice system.
-
-[**The Go Blog**](https://blog.golang.org/)
-
-Lots of useful articles.
-
-[**Alex Edwards Blog**](https://www.alexedwards.net/blog/)
-
-The author of "Let's Go!" book's blog.
-
-[**OpenApi Swagger Microservice Scaffolding**](https://github.com/go-openapi/kvstore/tree/master/cmd)
-
-A well-written (I hope) microservice, automatically created by Swagger. (Check the repo and generate code with Swagger locally.)
+[**OpenApi Swagger Microservice Scaffolding**](https://github.com/go-openapi/kvstore/tree/master/cmd) &mdash; A well-written (I hope) microservice, automatically created by Swagger. (Check the repo and generate code with Swagger locally.)
