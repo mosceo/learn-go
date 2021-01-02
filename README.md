@@ -6,7 +6,15 @@ To learn Golang using the "official" book by Donovan and Kernighan is hard. Ther
 Basic
 -----
 
-**Get Programming with Go**
+<dl>
+  <dt>Get Programming with Go</dt>
+  <dd>A simple introduction to Go.</dd>
+
+  <dt>Head First Go</dt>
+  <dd>A simple introduction with many illustrations.</dd>
+</dl>
+
+Get Programming with Go
 
 A simple introduction to Go.
 
