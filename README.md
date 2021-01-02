@@ -1,7 +1,7 @@
 Guide to Learn Go
 =================
 
-To learn Golang using the "official" book by Donovan and Kernighan is hard. There is a better way.
+To learn Golang using the "official" book by Donovan and Kernighan *is hard*. A better approach is to begin with simpler resources.
 
 Basic
 -----
@@ -24,6 +24,8 @@ Intermediate
 [**Server-Side Web Development**](https://drstearns.github.io/tutorials/) &mdash; A set of articles about Go web development.
 
 [**The pgx Files**](https://www.manniwood.com/topics/the_pgx_files.html) &mdash; Learn how to work with pgx effectively.
+
+[**Go in Practice: Includes 70 Techniques**](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/) &mdash; This book guides you through dozens of real-world techniques in key areas.
 
 Advanced
 --------
