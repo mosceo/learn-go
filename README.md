@@ -1,54 +1,69 @@
 Guide to Learn Go
 =================
 
-“Изучай только базовые вещи. Делай это быстро. Получи общее представление как все устроено.”
+To learn Golang using the "official" book by Donovan and Kernighan is hard. There is a better way.
 
-book Get Programming With Go
+Basic
+-----
 
-https://gobyexample.com/
+**Get Programming with Go**
 
-In progress book Go Web Programming
+A simple introduction to Go.
 
-Логирование пакеты zap, zerolog, graylog
+**Head First Go**
 
-https://blog.golang.org/using-go-modules
+A simple introduction with many illustrations.
 
-Пакет для CLI команд cobra
+[**Go by Example**](https://gobyexample.com)
 
-Docker Tutorial for Beginners with Nana https://www.youtube.com/watch?v=3c-iBn73dDE
+A hands-on introduction to Go.
 
-In progress: 3 chapters The Go Programming Language
+Intermediate
+------------
 
-Context
-https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html
-https://blog.golang.org/context
+[**Let's Go!**](https://lets-go.alexedwards.net/)
 
-Работа с PostgreSQL (pgx)
+Learn hot to build web applications with Go.
 
-Работа с Redis
-Storing Go Structs in Redis using ReJSON | by Nitish Malhotra | ITNEXT
-Working with Redis in Go - Alex Edwards
+[**Context Package Semantics In Go**](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
 
-Swagger
-https://goswagger.io/
+An article about working with *context* objects.
 
-Future https://www.alexedwards.net/blog/
+[**Go Concurrency Patterns: Context**](https://blog.golang.org/context)
 
-Важные
+Another article on the *context* objects.
 
-book Let’s Go
+[**Server-Side Web Development**](https://drstearns.github.io/tutorials/)
 
-text course Server-Side Web Development
-https://drstearns.github.io/tutorials/
+A set of articles about Go web development.
 
-video course Building Microservices with Go
-https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
+[**The pgx Files**](https://www.manniwood.com/topics/the_pgx_files.html)
 
-book Go Web Programming
+Learn how to work with pgx effectively.
 
-code Swagger example project
+Advanced
+--------
 
-Микросервис
+**Go Programming Language**
 
-Future Примеры кода
-https://github.com/go-openapi/kvstore/tree/master/cmd
+The "official" book.
+
+**Concurrency in Go: Tools and Techniques for Developers**
+
+Learn how to handle concurrency.
+
+[**Building Microservices with Go**](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_)
+
+This YouTube course will teach you how to build a multi-tier microservice system.
+
+[**The Go Blog**](https://blog.golang.org/)
+
+Lots of useful articles.
+
+[**Alex Edwards Blog**](https://www.alexedwards.net/blog/)
+
+The author of "Let's Go!" book's blog.
+
+[**OpenApi Swagger Microservice Scaffolding**](https://github.com/go-openapi/kvstore/tree/master/cmd)
+
+A well-written (I hope) microservice, automatically created by Swagger. (Check the repo and generate code with Swagger locally.)
