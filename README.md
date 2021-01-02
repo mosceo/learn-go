@@ -32,7 +32,7 @@ Advanced
 
 [**Go Programming Language**](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/) &mdash; The "official" Go book.
 
-[**Concurrency in Go: Tools and Techniques for Developers**](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) &mdash; Learn how to handle concurrency.
+[**Concurrency in Go: Tools and Techniques for Developers**](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197/) &mdash; Learn how to handle concurrency.
 
 [**Building Microservices with Go**](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) &mdash; This YouTube course will teach you how to build a multi-tier microservice system.
 
