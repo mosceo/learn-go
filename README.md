@@ -27,6 +27,8 @@ Intermediate
 
 [**Go in Practice: Includes 70 Techniques**](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/) &mdash; This book guides you through dozens of real-world techniques in key areas.
 
+[**Learn Go with Tests**](https://quii.gitbook.io/learn-go-with-tests/) &mdash; Learn Go through TDD approach.
+
 Advanced
 --------
 
