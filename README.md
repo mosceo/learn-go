@@ -1,5 +1,5 @@
-Guide to Learn Go
-=================
+Resources to learn Go
+=====================
 
 To learn Golang using the "official" book by Donovan and Kernighan *is hard*. There are better ways.
 
