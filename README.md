@@ -15,7 +15,7 @@ Basic
 Intermediate
 ------------
 
-[**Let's Go!**](https://lets-go.alexedwards.net/) &mdash; Learn hot to build web applications with Go.
+[**Let's Go!**](https://lets-go.alexedwards.net/) &mdash; Learn how to build web applications with Go.
 
 [**Context Package Semantics In Go**](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html) &mdash; An article about working with *context* objects.
 
